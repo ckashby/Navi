@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">Navi</string>
     <string name="title_product_detail">Product Detail</string>
+    <string name="title_activity_main">IC-Network</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="bt_candy_text">Candy</string>
 </resources>
